@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3a8afce89e8515beb6d56242",
+  "owner": "s38dcff6p",
+  "repo": "page-2a7c2c2f88cf75a75b370b08",
+  "title": "K机场(Godzilla)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2a7c2c2f88cf75a75b370b08",
+      "a": "K机场(Godzilla)",
+      "b": "2027最新官网",
+      "entity": "K机场(Godzilla)",
+      "brand": "K机场(Godzilla)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "95dd3d8910f0c632e5877538d3c3aa639569d46c7872d9420856b7482a703d60",
+      "content": {
+        "primary_entity": "K机场(Godzilla)",
+        "keyword1": "K机场(Godzilla)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端并导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端按设备选",
+          "AI_CLOSING_TEXT": "选好套餐后依客户端文档配置订阅。",
+          "AI_CLOSING_TITLE": "开始使用",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供简洁指引。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备。按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可依使用人数与流量需求挑选。",
+          "AI_FEATURES_INTRO": "从套餐对比、设备数量与订阅周期三个角度切入。",
+          "AI_FEATURES_TITLE": "选用要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数选。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_2": "月付灵活、年付省心，基础版年付 ¥150、旗舰版 ¥350。",
+          "AI_FEATURE_TITLE_2": "订阅周期",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版有 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_3": "流量与线路",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "K机场(Godzilla)提供基础版、旗舰版与团队版三档海外加速套餐，覆盖每月 100GB 至 1000GB 流量，支持 3 至 20 台设备同时在线，可按需求挑选。",
+          "AI_HERO_SUBTITLE": "K机场订阅选择指引",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "设备数 3 至 20 台",
+          "AI_HIGHLIGHT_3": "年付更省心",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多设备高流量。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与月流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数与流量额度，确认满足使用场景。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按对应客户端文档导入订阅信息，完成设备配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "K机场套餐与订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "K机场(Godzilla)套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "根据设备数量与月流量需求判断。单人轻度使用可选基础版，有流媒体与游戏加速需求建议旗舰版，多设备或团队使用适合团队版。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时几台设备使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版5台，团队版20台设备同时在线。超出数量可能导致连接受限，建议按实际设备数选择对应套餐。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格约为月付的十个月费用。基础版年付¥150，旗舰版¥350，团队版¥850，适合确定长期使用的用户。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "选择与设备对应的客户端，按客户端文档中的导入说明添加订阅信息，完成后启用连接即可。不同客户端操作界面略有差异。",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "IPLC专线针对游戏加速与低延迟场景优化，也适合对连接稳定性要求较高的流媒体使用。基础版与团队版线路配置不同，可按需选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrw1gd35bu3qh5c.com",
+    "host": "xn--yfrw1gd35bu3qh5c.com"
+  },
+  "file_hashes": {
+    "index.html": "b8f5b0b52aef471bc711501c6e30b5d1bc2df024c8e5813c8eda8c007cac14b9",
+    "sitemap.xml": "1e56eb4ff7d418c42a1472fe6aeda90ecbe1c94f9b022263161005d30a8fb8a0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f61d759cbb48657510f40d5185c47e2f076640203019d2e6235f1a3095419363",
+    "robots.txt": "d019fe70336ccb82b01303372a17e6b8b019e439d1a63b4109a8563123d20650",
+    "3e5aa18bd7d007c696a4aee2455decdb.txt": "ca556457eb3b70458ced14460dd49c2fbee9781787f2c4baf8521a056f613c33"
+  },
+  "revision": "4afde8be2afc550ce495e2bea71e3132e3841eab2bbf2a8184e5b42b763d9bb6"
+}
